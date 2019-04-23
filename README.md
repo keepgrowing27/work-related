@@ -6,5 +6,7 @@
 **[工作时间线](https://github.com/keepgrowing27/work-related/blob/master/%E5%B7%A5%E4%BD%9C%E6%B5%8B%E8%AF%95.md)**
 
 *图片测试*
+
 **图片测试**
-![电脑桌面图片](/relative/电脑桌面.jpg?raw=true "电脑桌面")
+
+![电脑桌面图片](https://github.com/keepgrowing27/work-related/blob/master/%E7%94%B5%E8%84%91%E6%A1%8C%E9%9D%A2.jpg)
