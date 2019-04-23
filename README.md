@@ -7,4 +7,4 @@
 
 *图片测试*
 **图片测试**
-![电脑桌面图片](/relative/path/to/电脑桌面.jpg?raw=true "电脑桌面")
+![电脑桌面图片](/relative/电脑桌面.jpg?raw=true "电脑桌面")
