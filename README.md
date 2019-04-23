@@ -9,4 +9,4 @@
 
 **图片测试**
 
-![电脑桌面图片](/blob/master/%E7%94%B5%E8%84%91%E6%A1%8C%E9%9D%A2.jpg)
+![电脑桌面图片](https://github.com/keepgrowing27/work-related/blob/master/desk_top.jpg)
