@@ -10,5 +10,7 @@
 
 **图片测试**
 
+![图片桌面](/desktop.jpg)
+
 <p align="left"><img src="https://github.com/keepgrowing27/work-related/blob/master/desktop.jpg" alt="Sample002"  width="1000" height="100">
 
