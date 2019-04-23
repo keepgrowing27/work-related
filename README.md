@@ -11,6 +11,6 @@
 
 ![电脑桌面图片](https://github.com/keepgrowing27/work-related/blob/master/desktop.jpg/w/200)
 
-<p align="center">
-	<img src="https://github.com/keepgrowing27/work-related/blob/master/desktop.jpg" alt="Sample002"  width="250" height="140">
+<p align="left">
+	<img src="https://github.com/keepgrowing27/work-related/blob/master/desktop.jpg" alt="Sample002"  width="500" >
 
